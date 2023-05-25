@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlayerTracker</string>
+    <string name="enter_player_name">Enter Player Name</string>
+    <string name="player_name">Player Name</string>
+    <string name="player_points">Player Points</string>
+    <string name="player_name1">Player Name:</string>
+    <string name="player_points1">Player Points:</string>
+    <string name="enter_player_points">Enter Player Points</string>
+    <string name="submit">Submit</string>
+</resources>
